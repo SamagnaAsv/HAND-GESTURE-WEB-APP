@@ -1,0 +1,36 @@
+body
+{
+  color: white;
+  background: #99004f;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+.heading
+{
+font-size: 20px;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+
+label
+{
+  padding: 10px;
+  background-color: white;
+  color: green;
+  border-radius: 10px;
+}
+
+.emoji, .hand_gesture_name
+{
+  font-size: 25px;
+}
+
